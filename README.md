@@ -32,3 +32,18 @@ Following is a guide to help you utilize Root to kick out all the ADs and tracke
   - Go to the `search` tab
   - Search for the newly installed app
   - disable each AD & tracker component
+# 4. [XPL-EX](https://github.com/0bbedCode/XPL-EX)
+- setup in [LSposed](https://github.com/JingMatrix/LSPosed)
+  - install [LSposed](https://github.com/JingMatrix/LSPosed)
+  - Launch [LSposed](https://github.com/JingMatrix/LSPosed) from the notification
+  - enable [XPL-EX](https://github.com/JingMatrix/LSPosed) module in [LSposed](https://github.com/JingMatrix/LSPosed) manager
+  - check `System Framework`
+- setup in [XPL-EX](https://github.com/0bbedCode/XPL-EX)
+  - check all proprietary apps
+  - tap *hamburger menu* (*top left*)
+  - check *Notify on new apps*
+  - tap *Setting Values*
+  - enable all except the one in red
+  - tap mask
+    - randomize (*dice icon*)
+    - save

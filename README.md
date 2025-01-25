@@ -7,7 +7,7 @@ This is a guide to help you utilize Root to remove all the ADs and trackers on y
   - Preferences
   - Backup / restore block rules
   - Restore (*Restore your block rules from the [backup file](https://github.com/DestroyerBDT/tracKick/releases/latest/download/AdAway.json)*)
-- Device-specific filtering
+- Device-specific filtering (*enable for the device you are using it on*)
   - Search in the filter list for your device's list to block its native trackers
   - Supported devices (*uses [HaGeZi](https://github.com/hagezi/dns-blocklists) lists*)
      - [Xiaomi](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.xiaomi.txt)
@@ -15,7 +15,7 @@ This is a guide to help you utilize Root to remove all the ADs and trackers on y
      - [Samsung](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.samsung.txt)
      - [Huawei](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.huawei.txt)
      - [Vivo](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.vivo.txt)
-- Company-specific filtering
+- Company-specific filtering (*enable for the company you use services of*)
   - Search in the list for a company whose service(s) you use
   - Supported companies (*uses [HaGeZi](https://github.com/hagezi/dns-blocklists) lists*)
      - [TikTok](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.extended.txt)

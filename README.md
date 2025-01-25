@@ -54,4 +54,4 @@ Following is a guide to help you utilize Root to kick out all the ADs and tracke
   - check `System Framework`
 - setup in [Android Faker](https://github.com/Android1500/AndroidFaker)
   - check all the checkboxes (*free till Ads ID*)
-  - tap the *loop icon* (*on bottom right)
+  - tap the *loop icon* (*on bottom right*)

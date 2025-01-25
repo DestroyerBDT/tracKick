@@ -47,3 +47,11 @@ Following is a guide to help you utilize Root to kick out all the ADs and tracke
   - tap mask
     - randomize (*dice icon*)
     - save
+# 5. [Android Faker](https://github.com/Android1500/AndroidFaker)
+- setup in LSposed
+  - launch [LSposed](https://github.com/JingMatrix/LSPosed) from the notification
+  - enable [Android Faker](https://github.com/Android1500/AndroidFaker) module in [LSposed](https://github.com/JingMatrix/LSPosed) manager
+  - check `System Framework`
+- setup in [Android Faker](https://github.com/Android1500/AndroidFaker)
+  - check all the checkboxes (*free till Ads ID*)
+  - tap the *loop icon* (*on bottom right)

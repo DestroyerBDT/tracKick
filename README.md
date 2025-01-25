@@ -1,4 +1,4 @@
-This is a guide to help you utilize Root to remove all the ADs and trackers on your Android
+Following is a guide to help you utilize Root to kick out all the ADs and trackers on your Android
 
 # 1. AdAway
 - Select root-based AdBlocker

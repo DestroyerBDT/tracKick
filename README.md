@@ -6,7 +6,7 @@ Following is a guide to help you utilize Root to kick out all the ADs and tracke
   - Hamburger menu (*bottom-left*)
   - Preferences
   - Backup / restore block rules
-  - Restore (*Restore your block rules from the [backup file](https://github.com/DestroyerBDT/tracKick/releases/latest/download/AdAway.json)*)
+  - Restore the block rules from the [backup file](https://github.com/DestroyerBDT/tracKick/releases/latest/download/AdAway.json)
 - Device-specific filtering (*enable for the device you are using it on*)
   - Search in the filter list for your device's list to block its native trackers
   - Supported devices (*uses [HaGeZi](https://github.com/hagezi/dns-blocklists) lists*)

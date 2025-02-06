@@ -42,10 +42,10 @@ Following is a guide to help you utilize Root to kick out all the ADs and tracke
 - setup in [XPL-EX](https://github.com/0bbedCode/XPL-EX)
   - check all proprietary apps
   - tap *hamburger menu* (*top left*)
-  - check *Notify on new apps*
-  - tap *Setting Values*
+  - check `Notify on new apps`
+  - tap `Setting Values`
   - enable all except the one in red
-  - tap mask
+  - tap `mask`
     - randomize (*dice icon*)
     - save
 # 5. [Android Faker](https://github.com/Android1500/AndroidFaker)

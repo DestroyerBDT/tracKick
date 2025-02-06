@@ -7,19 +7,20 @@ Following is a guide to help you utilize Root to kick out all the ADs and tracke
   - Preferences
   - Backup / restore block rules
   - Restore the block rules from the [backup file](https://github.com/DestroyerBDT/tracKick/releases/latest/download/AdAway.json)
-- Device-specific filtering (*enable for the device you are using it on*)
-  - Search in the filter list for your device's list to block its native trackers
-  - Supported devices (*uses [HaGeZi lists](https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#native)*)
-     - [Xiaomi](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.xiaomi.txt)
-     - [Oppo/Realme](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.oppo-realme.txt)
-     - [Samsung](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.samsung.txt)
-     - [Huawei](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.huawei.txt)
-     - [Vivo](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.vivo.txt)
-- Company-specific filtering (*enable for the company you use services of*)
-  - Search in the list for a company whose service(s) you use
-  - Supported companies (*uses [HaGeZi lists](https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#native)*)
-     - [TikTok](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.extended.txt)
-     - [Amazon](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.amazon.txt)
+- Targeted filtering (*uses [HaGeZi lists](https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#native)*)
+  - Device-specific (*enable for the device you are using it on*)
+    - Search in the filter list for your device's list to block its native trackers
+    - Supported devices
+       - [Xiaomi](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.xiaomi.txt)
+       - [Oppo/Realme](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.oppo-realme.txt)
+       - [Samsung](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.samsung.txt)
+       - [Huawei](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.huawei.txt)
+       - [Vivo](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.vivo.txt)
+  - Company-specific (*enable for the company you use services of*)
+    - Search in the list for a company whose service(s) you use
+    - Supported companies
+       - [TikTok](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.extended.txt)
+       - [Amazon](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.amazon.txt)
 # 2. Lucky Patcher
 - Disable *Google ad services*
    - Toolbox

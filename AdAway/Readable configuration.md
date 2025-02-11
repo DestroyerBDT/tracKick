@@ -491,8 +491,7 @@
 | Enabled    | :x:           |
 | Redirect   | :heavy_check_mark:          |
 
-### [📗Multi LIGHT - Basic protection
-(HaGeZi)](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt)
+### [📗Multi LIGHT - Basic protection (HaGeZi)](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt)
 | Criteria   | Value               |
 |:----------:|:-------------------:|
 | Enabled    | :x:           |

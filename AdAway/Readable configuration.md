@@ -1,4 +1,3 @@
-
 ### [1024](https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts)
 | Criteria   | Value               |
 |:----------:|:-------------------:|
@@ -173,10 +172,10 @@
 | Enabled    | :x:           |
 | Redirect   | :x:          |
 
-### [Dandelion Sprout's Nordic Filters for Tidier Websites](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicHosts.txt)
+### [Dandelion Sprout's Nordic Filters for Tidier Websites (IPv4)](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicHosts.txt)
 | Criteria   | Value               |
 |:----------:|:-------------------:|
-| Enabled    | :heavy_check_mark:           |
+| Enabled    | :x:           |
 | Redirect   | :heavy_check_mark:          |
 
 ### [Dandelion Sprout's Nordic Filters for Tidier Websites (IPv6)](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersHostsIPv6.txt)

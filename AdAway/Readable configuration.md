@@ -202,7 +202,7 @@
 | Enabled    | :x:           |
 | Redirect   | :x:          |
 
-### [FMHY](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/refs/heads/main/filterlist-hosts.txt)
+### [FMHY](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-hosts.txt)
 | Criteria   | Value               |
 |:----------:|:-------------------:|
 | Enabled    | :heavy_check_mark:           |

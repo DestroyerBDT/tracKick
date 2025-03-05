@@ -240,7 +240,7 @@
         },
         {
             "label": "FMHY",
-            "url": "https:\/\/raw.githubusercontent.com\/fmhy\/FMHYFilterlist\/refs\/heads\/main\/filterlist-hosts.txt",
+            "url": "https:\/\/raw.githubusercontent.com\/fmhy\/FMHYFilterlist\/main\/filterlist-hosts.txt",
             "enabled": true,
             "allow": false,
             "redirect": true

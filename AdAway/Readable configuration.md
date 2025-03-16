@@ -277,7 +277,7 @@
 ### [Mobile-Ad-Hosts](https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts)
 | Criteria   | Value               |
 |:----------:|:-------------------:|
-| Enabled    | :heavy_check_mark:           |
+| Enabled    | :x:           |
 | Redirect   | :heavy_check_mark:          |
 
 ### [NoTracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt)

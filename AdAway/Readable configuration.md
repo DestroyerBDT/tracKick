@@ -278,7 +278,7 @@
 | Criteria   | Value               |
 |:----------:|:-------------------:|
 | Enabled    | :x:           |
-| Redirect   | :heavy_check_mark:          |
+| Redirect   | :x:          |
 
 ### [NoTracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt)
 | Criteria   | Value               |

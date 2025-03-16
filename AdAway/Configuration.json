@@ -325,9 +325,9 @@
         {
             "label": "Mobile-Ad-Hosts",
             "url": "https:\/\/raw.githubusercontent.com\/biroloter\/Mobile-Ad-Hosts\/master\/hosts",
-            "enabled": true,
+            "enabled": false,
             "allow": false,
-            "redirect": true
+            "redirect": false
         },
         {
             "label": "NoTracking",
